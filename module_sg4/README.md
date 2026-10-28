@@ -1,6 +1,6 @@
 # Module — Sub-group 4
 
-**Owner:** _TBD_
+**Owner:** Mujtaba Ahmed, Muhammad Talal, Muhammad Ammar
 
 ## Purpose
 _TBD: the technical module owned by sub-group 4._
